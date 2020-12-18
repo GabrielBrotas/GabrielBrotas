@@ -1,5 +1,15 @@
 ### Hi there, Welcome to my profile 👋
 
+  <a href="https://www.linkedin.com/in/gabriel-brotas" rel="nofollow">
+    Linkedin
+  </a>
+  &nbsp
+  <a href="mailto:gbrotas22@gmail.com">
+    Email
+  </a>
+
+<br />
+
   In my repositories you'll going to find my projects using: <br/>
      >Javascript; <br/>
      >TypeScrit; <br/>
