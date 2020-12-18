@@ -9,6 +9,6 @@
      >Node; <br/>
 
 - 🔭 I’m currently open to work and working as freelancer; 
-- 👯 I’m looking to collaborate on open source projects
+- 👷 I’m looking to collaborate on open source projects
 - 📫 Feel free to contact me. How to reach me: gbrotas22@gmail.com
 
