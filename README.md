@@ -14,7 +14,7 @@
      >Javascript; <br/>
      >TypeScript; <br/>
      >React; <br/>
-     >ReactNative; <br/>
+     >React Native; <br/>
      >Node; <br/>
      >Databases (SQL and NoSQL); <br/>
    
