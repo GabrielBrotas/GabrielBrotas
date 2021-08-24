@@ -19,5 +19,4 @@
      >Databases (SQL and NoSQL); <br/>
    
 - 🔭 Focused on React / React Native and Node; 
-- 👷 I’m looking to collaborate on open source projects;
 - 📫 Feel free to contact me. How to reach me: gbrotas22@gmail.com;
