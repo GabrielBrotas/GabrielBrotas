@@ -1,7 +1,7 @@
 ### Hi there, Welcome to my profile 👋
-  I'm passionate about the best web & mobile development technologies.
+  I'm passionate about the best web & mobile development technologies. <br/> 
   Always looking for improvement.
-  
+  <br/> 
   In my repositories you'll going to find projects using: <br/> 
   <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
