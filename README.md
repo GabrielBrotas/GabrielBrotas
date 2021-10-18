@@ -1,5 +1,5 @@
 ### Hi there, Welcome to my profile 👋
-  I'm passionate about technologies the best web & mobile development technologies.
+  I'm passionate about the best web & mobile development technologies.
   Always looking for improvement.
   
   In my repositories you'll going to find projects using: <br/> 
