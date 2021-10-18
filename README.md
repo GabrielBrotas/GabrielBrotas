@@ -1,4 +1,7 @@
 ### Hi there, Welcome to my profile 👋
+  I'm passionate about technologies the best web & mobile development technologies.
+  Always looking for improvement.
+  
   In my repositories you'll going to find projects using: <br/> 
   <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
@@ -12,8 +15,8 @@
   </div>
   And much more.<br/> <br/> 
 
-- 🔭 Focused and learn always more about performance in NextJS and NodeJS; 
-- 📫 Feel free to contact me: contato.gbrottas@gmail.com;
+- 🔭 Currently learning more about microservices using Kafkajs and infrastructure; 
+- 📫 Feel free to contact me: gabrielbrotas22@gmail.com;
 
 <div>
   <a href="https://www.linkedin.com/in/gabriel-brotas" target="_blank" rel="noopener noreferrer">
