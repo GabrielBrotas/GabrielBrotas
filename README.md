@@ -15,7 +15,7 @@
   </div>
   And much more.<br/> <br/> 
 
-- 🔭 Currently learning more about microservices using Kafkajs and infrastructure; 
+- 🔭 Currently learning more about cloud infrastructure with aws and microservices; 
 - 📫 Feel free to contact me: gabrielbrotas22@gmail.com;
 
 <div>
