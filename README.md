@@ -19,7 +19,7 @@ results using code and passion about the best web & mobile development technolog
   And much more.<br/> <br/> 
 
 - 🔭 Currently learning more about cloud infrastructure with aws and microservices; 
-- 📫 Feel free to contact me: gabrielbrotas22@gmail.com;
+- 📫 Feel free to contact me: gbrotas22@gmail.com;
 
 <div>
   <a href="https://www.linkedin.com/in/gabriel-brotas" target="_blank" rel="noopener noreferrer">
