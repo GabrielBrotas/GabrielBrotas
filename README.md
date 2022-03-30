@@ -14,6 +14,7 @@ results using code and passion about the best web & mobile development technolog
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="40px" />
     <img src="https://user-images.githubusercontent.com/63565773/158056419-bead7734-70dd-4bbb-885e-ccc54a9c872c.jpg" width="40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40px" />
   </div>
 
   And much more.<br/> <br/> 
