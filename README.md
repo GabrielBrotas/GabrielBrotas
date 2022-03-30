@@ -1,6 +1,5 @@
 ### Hi there, Welcome to my profile 👋
-  I'm a software engineer who enjoys using my experience and skills to help teams and companies to achieve outstanding
-results using code and passion about the best web & mobile development technologies. <br/> 
+  I'm a software engineer who enjoys using my experience and skills to help teams and companies achieve great results using code and a passion for the best technologies. <br/> 
   Always looking for improvement.
   <br/> <br/> 
   In my repositories you'll going to find projects using: <br/> 
