@@ -21,7 +21,6 @@
 
   And much more.<br/> <br/> 
 
-- 🔭 Currently learning more about cloud infrastructure with aws and microservices; 
 - 📫 Feel free to contact me: contato.gbrottas@gmail.com;
 
 <div>
