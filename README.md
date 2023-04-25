@@ -29,10 +29,4 @@
   <a href="https://www.linkedin.com/in/gabriel-brotas" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
-   <a href="https://www.youtube.com/channel/UCAyvO0YTENk1_CuH8I050Rw" target="_blank" rel="noopener noreferrer">
-     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" rel="noopener noreferrer"" >
-  </a>
-   <a href="https://www.instagram.com/gbrottas/" target="_blank" rel="noopener noreferrer">
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"/> 
-  </a>
 </div
