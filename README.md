@@ -22,10 +22,6 @@
   </div>
 
   And much more.<br/> <br/> 
-  
-  Some contents of my [Learning Journey](https://gabrielbrotas.github.io/Advanced-Journey/)
-
-- 📫 Feel free to contact me: contato.gbrottas@gmail.com;
 
 <div>
   <a href="https://www.linkedin.com/in/gabriel-brotas" target="_blank" rel="noopener noreferrer">
